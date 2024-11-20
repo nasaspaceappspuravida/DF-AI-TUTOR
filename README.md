@@ -1,4 +1,4 @@
-# [CX Sample: AI Tutor](https://github.com/nasaspaceappspuravida/DF-AI-TUTOR) 
+# [CX Sample: AI Workshop - Tutor Linconl School](https://github.com/nasaspaceappspuravida/DF-AI-TUTOR) 
 
 - Step 1. Download Zip File
 
