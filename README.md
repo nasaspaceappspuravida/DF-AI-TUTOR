@@ -1,8 +1,8 @@
 # [CX Sample: AI Tutor](https://github.com/nasaspaceappspuravida/DF-AI-TUTOR) 
 
-## -Download Zip File
+- Download Zip File
 
-## -Create new agent
+- Create new agent
 
-## -Restore agent (zip file)
+- Restore agent (zip file)
 
