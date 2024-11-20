@@ -1,8 +1,8 @@
 # [CX Sample: AI Tutor](https://github.com/nasaspaceappspuravida/DF-AI-TUTOR) 
 
-- Download Zip File
+- Step 1. Download Zip File
 
-- Create new agent
+- Step 2. Create new agent
 
-- Restore agent (zip file)
+- Step 3. Restore agent (zip file)
 
